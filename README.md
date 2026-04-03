@@ -1,4 +1,3 @@
-<img width="1694" height="931" alt="f05e6f9f48ca550b7e48e3217cc70285" src="https://github.com/user-attachments/assets/47d9023c-9c63-4722-bd81-6d813f9e5a9a" /># multi_environment_isaac_sim_Script
 
 [![IsaacSim](https://img.shields.io/badge/IsaacSim-5.1.0-b.svg)](https://docs.isaacsim.omniverse.nvidia.com/5.1.0/index.html)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
