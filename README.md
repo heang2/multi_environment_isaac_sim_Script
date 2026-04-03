@@ -11,8 +11,8 @@ You can use the script editor in Isaac SIM to directly import scenes, or you can
 
 
 <p align="center">
- ![b80757eae12994c52617e9905d7d5aab](https://github.com/user-attachments/assets/8457dab0-1929-451f-9aa1-09ec1867062d)
+ ![b80757eae12994c52617e9905d7d5aab](https://github.com/user-attachments/assets/f1f82c7a-f63c-4d7d-9402-72617e2e1c71)
 <p>
-
+ 
 # Environment
 
