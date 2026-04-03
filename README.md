@@ -77,6 +77,7 @@ It is designed for robotic manipulation, pick-and-place research, conveyor-based
 <p align="center">
  <img width="1693" height="912" alt="7a83fc5cf4871478f1b5e8d0bf3b27c4" src="https://github.com/user-attachments/assets/361f07c5-678b-4916-823f-caafe0a9952b" />
 </p>
+
 ### Included Elements
 
 - industrial workstation layout
