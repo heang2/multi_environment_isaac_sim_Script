@@ -1,0 +1,6 @@
+This project is intended to run inside NVIDIA Isaac Sim's Python environment.
+
+Typical usage:
+- Open Isaac Sim
+- Add this folder to your working directory
+- Copy an example script into the Script Editor, or run via Isaac Sim Python
