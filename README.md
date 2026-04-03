@@ -92,24 +92,6 @@ It combines mobile robots, forklifts, manipulators, pallets, cargo obstacles, an
 - box obstacles
 - loading and transport zones
 
-### What You Can Do
-
-- warehouse navigation experiments
-- obstacle avoidance in narrow aisles
-- mixed-fleet scheduling
-- autonomous transport task simulation
-- mobile manipulation research
-- pallet pickup and delivery workflow testing
-- logistics path planning benchmarking
-
-### Suitable Tasks
-
-- autonomous warehouse patrol
-- material transport
-- pallet handling
-- robot fleet coordination
-- warehouse task allocation
-- collision-free route planning
 
 ---
 
@@ -132,24 +114,7 @@ It is designed for robotic manipulation, pick-and-place research, conveyor-based
 - support mobile robot platform
 - cluttered manipulation workspace
 
-### What You Can Do
 
-- dual-arm coordination experiments
-- pick-and-place task planning
-- object sorting simulation
-- manipulation policy validation
-- workstation automation testing
-- grasp planning demonstrations
-- multi-stage industrial process prototyping
-
-### Suitable Tasks
-
-- item sorting
-- bin picking
-- coordinated dual-arm manipulation
-- conveyor-assisted manipulation
-- industrial robotic cell control
-- embodied manipulation data generation
 
 ---
 
@@ -172,24 +137,7 @@ It is suitable for service robots, inspection robots, indoor navigation research
 - medical bed / ward-like areas
 - scattered medical supply obstacles
 
-### What You Can Do
 
-- hospital delivery robot simulation
-- indoor service navigation
-- medical inspection route planning
-- robot-assisted service workflow testing
-- corridor navigation under clutter
-- task planning in constrained indoor environments
-- mobile manipulation in healthcare-like spaces
-
-### Suitable Tasks
-
-- autonomous delivery
-- ward inspection
-- service robot deployment testing
-- obstacle-aware indoor navigation
-- room-to-room route planning
-- assistive robotics demonstrations
 
 ---
 
@@ -212,24 +160,6 @@ It contains several mobile robots, office-style clutter, desks, pathways, and di
 - delivery points
 - navigation lanes
 
-### What You Can Do
-
-- office delivery simulation
-- multi-robot coordination
-- indoor navigation benchmarking
-- fleet dispatch strategy testing
-- task allocation research
-- service robot path planning
-- traffic conflict resolution experiments
-
-### Suitable Tasks
-
-- parcel delivery
-- meeting room delivery
-- office patrol
-- multi-agent navigation
-- office logistics
-- lightweight service robot research
 
 ---
 
@@ -252,24 +182,6 @@ It contains maze-like walls, ramps, elevated platforms, and irregular obstacles 
 - narrow movement passages
 - traversal challenge regions
 
-### What You Can Do
-
-- quadruped locomotion testing
-- ramp traversal evaluation
-- maze navigation
-- terrain adaptation research
-- reinforcement learning environment prototyping
-- robustness benchmarking
-- gait and mobility demonstrations
-
-### Suitable Tasks
-
-- path traversal
-- rough-terrain locomotion
-- collision-aware navigation
-- mobility policy evaluation
-- locomotion controller comparison
-- multi-quadruped scenario testing
 
 ---
 
@@ -293,80 +205,6 @@ It combines forklift operation areas, loading points, mobile platforms, manipula
 - conveyor / transfer structure
 - inbound and outbound logistics areas
 
-### What You Can Do
-
-- warehouse digital twin demonstrations
-- loading zone scheduling
-- automated unloading workflow simulation
-- forklift route planning
-- robot-assisted logistics orchestration
-- end-to-end warehouse process prototyping
-- embodied AI logistics scenario generation
-
-### Suitable Tasks
-
-- inbound handling
-- outbound transport
-- loading dock coordination
-- pallet movement
-- unloading automation
-- warehouse system integration testing
-
----
-
-# Why These Scenes Are Useful
-
-These six scenes are not just visual examples.  
-They are designed to provide reusable simulation assets for embodied AI and robotics workflows.
-
-They can be used for:
-
-- benchmarking robot policies
-- generating training data
-- evaluating navigation and manipulation pipelines
-- building demos for robotics courses
-- validating sim-to-real ideas
-- testing multi-robot coordination
-- creating task-specific embodied AI environments
-
----
-
-# Suggested Workflow
-
-A typical workflow with this repository is:
-
-1. choose a target scenario
-2. open Isaac Sim
-3. use the Script Editor to run the corresponding scene script
-4. inspect the generated environment in the stage tree
-5. add robot control, navigation, manipulation, or learning pipelines
-6. collect data or run experiments
-
----
-
-# Notes
-
-- Each script generates a **single independent scene**
-- Scene names are explicit and human-readable
-- The scripts are intended to be easy to modify for custom experiments
-- You can further expand each scene by adding sensors, task logic, controllers, or learning pipelines
-
----
-
-# Future Extensions
-
-Possible future additions include:
-
-- semantic task annotations
-- sensor presets
-- navigation graph generation
-- manipulation task labels
-- domain randomization
-- reinforcement learning wrappers
-- benchmark task definitions
-- ROS / ROS2 integration examples
-
----
 
 # License
 
